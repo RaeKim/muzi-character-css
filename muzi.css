@@ -164,6 +164,6 @@ p{
 	right: 20px;
 }
 
-.nose:hover{
+.nose:hover, .nose:active{
 	background-color: red;
 }
