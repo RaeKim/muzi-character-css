@@ -11,7 +11,6 @@ div div {position: relative;}
 	top: 60px;
 	border-radius: 50%;
 	background-color: white;
-
 	border: 5px solid black;
 }
 
@@ -130,7 +129,6 @@ div div {position: relative;}
 	border: 5px solid black;
 	border-top: none;
 	left: 20px;
-
 }
 
 .l_arm, .r_arm, .l_leg, .r_leg{
@@ -160,4 +158,8 @@ div div {position: relative;}
 .r_leg{
 	top: 50px;
 	right: 20px;
+}
+
+.nose:hover{
+	background-color: red;
 }
